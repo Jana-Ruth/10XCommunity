@@ -407,6 +407,7 @@ border-radius: 90px;
 opacity: 0px;
 border: none;
 background-color: rgba(243, 243, 243, 1);
+padding-left: 1rem;
 }
 
 ::placeholder{
@@ -414,9 +415,11 @@ background-color: rgba(243, 243, 243, 1);
     font-size: 13px;
     font-weight: 500;
     line-height: 13.65px;
-    padding-left: 1rem;
+   
     color: rgba(183, 183, 183, 1);
 }
+
+in
 
 .newsletter-send{
     display: flex;
