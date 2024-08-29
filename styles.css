@@ -128,16 +128,10 @@ header {
   width: 35%;
 }
 
-.exclusive p {
-  text-align: center;
-  padding: 10px;
-  gap: 10px;
-  border-radius: 60px;
-  width: 50%;
+ .p {
+  color: rgba(0, 0, 0, 1);
   background-color: rgba(246, 246, 246, 1);
-  font-size: 15px;
-  font-weight: 500;
-  line-height: 15.75px;
+  
 }
 
 .exclusive h2 {
@@ -505,17 +499,7 @@ width: 80%;
   width: 100%;
 }
 
-.exclusive p {
-  text-align: center;
-  padding: 10px;
-  gap: 10px;
-  border-radius: 60px;
-  width: 50%;
-  background-color: rgba(246, 246, 246, 1);
-  font-size: 15px;
-  font-weight: 500;
-  line-height: 15.75px;
-}
+
 
 .exclusive h2 {
   text-align: center;
@@ -667,16 +651,10 @@ margin: 0 auto;
     width: 100%;
   }
   
-  .exclusive p {
-    text-align: center;
-    padding: 10px;
-    gap: 10px;
-    border-radius: 60px;
-    width: 55%;
+   .p {
+   
     background-color: rgba(246, 246, 246, 1);
-    font-size: 15px;
-    font-weight: 500;
-    line-height: 15.75px;
+   
   }
   
   .exclusive h2 {
