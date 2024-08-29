@@ -20,6 +20,7 @@ button {
   background-color: rgba(0, 0, 0, 1);
   border-radius: 40px;
   color: rgba(255, 255, 255, 1);
+  cursor: pointer;
 }
 
 header {
@@ -130,8 +131,8 @@ header {
 
  .p {
   
-width: 45%;
 
+width: 43%;
   color: rgba(0, 0, 0, 1);
   background-color: rgba(246, 246, 246, 1);
   
@@ -656,8 +657,8 @@ margin: 0 auto;
   }
   
    .p {
-    width: 60%;
-    
+   
+    width: 80%;
     background-color: rgba(246, 246, 246, 1);
    
   }
@@ -983,11 +984,7 @@ background-color: rgba(243, 243, 243, 1);
 /* hero-section end*/
 
 /* community start */
-.p {
-  
-  width: 70%;
-  
-}
+
 
 .exclusive h2 {
   text-align: center;
