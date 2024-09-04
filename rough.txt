@@ -244,7 +244,7 @@ header {
   align-items: center;
   gap: 38px;
   justify-content: center;
-  margin: 90px auto;
+  padding: 90px auto;
 }
 
 .elevate h2 {
@@ -1289,5 +1289,3 @@ top: 42px;
 left: 79px;
 gap: 8px;
 opacity: 0px;} */
-
-
