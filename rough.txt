@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -244,7 +245,7 @@ header {
   align-items: center;
   gap: 38px;
   justify-content: center;
-  padding: 90px auto;
+  margin: 90px auto;
 }
 
 .elevate h2 {
@@ -457,7 +458,7 @@ in
   align-items: center;
   gap: 80px;
   margin: 0 auto;
-  padding: 6rem 0rem;
+  padding: 1rem 0rem;
   width: 80%;
 }
 
@@ -582,8 +583,31 @@ margin: 0 auto;
 
 /* community end*/
 
-/* upcoming-events start */
+.elevate{
+  display: flex;
+flex-direction: column;
+width: 90%;
+align-items: center;
+gap: 38px;
+justify-content: center;
+padding: 1rem 0rem;
+margin: 0px auto;
+}
 
+
+/* upcoming-events start */
+.upcoming-events {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 0 auto;
+  padding: 10px 0px 40px 0px;
+
+}
+
+.upcoming-events  h2{
+  text-align: center;
+}
 
 .events {
   display: flex;
@@ -855,7 +879,7 @@ background-color: rgba(243, 243, 243, 1);
     gap: 90px;
     margin: 0 auto;
     width: 90%;
-  
+    padding: 1rem 0rem;
   }
   
   .hero-section h1 {
@@ -898,7 +922,7 @@ background-color: rgba(243, 243, 243, 1);
     flex-direction: column;
   width: 80%;
    margin: 0 auto;
-    padding: 3rem 0rem;
+    padding: 1rem 0rem;
     gap: 1.5rem;
   }
   
@@ -992,7 +1016,7 @@ background-color: rgba(243, 243, 243, 1);
   align-items: center;
   gap: 38px;
   justify-content: center;
-  padding: 3rem 0rem;
+  padding: 1rem 0rem;
   margin: 0px auto;
 }
 
@@ -1018,7 +1042,7 @@ background-color: rgba(243, 243, 243, 1);
   flex-direction: column;
   width: 80%;
   margin: 0 auto;
-  padding: 80px 0px;
+  padding: 10px 0px 40px 0px;
 
 }
 
@@ -1289,3 +1313,6 @@ top: 42px;
 left: 79px;
 gap: 8px;
 opacity: 0px;} */
+
+
+
